@@ -1,2 +1,2 @@
-# full-stack-react-app-tut1
-A codebase for a full stack React App.
+# Full Stack React App Tutorial
+A simple weather app, built for my full stack React app tutorial. Also features Reactstrap, Express, and PostgreSQL.
